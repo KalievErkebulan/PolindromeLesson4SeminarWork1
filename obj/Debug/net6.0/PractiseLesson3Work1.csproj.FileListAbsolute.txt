@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\bin\Debug\net6.0\PractiseLesson3Work1.exe
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\bin\Debug\net6.0\PractiseLesson3Work1.deps.json
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\bin\Debug\net6.0\PractiseLesson3Work1.runtimeconfig.json
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\bin\Debug\net6.0\PractiseLesson3Work1.dll
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\bin\Debug\net6.0\PractiseLesson3Work1.pdb
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.dll
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\refint\PractiseLesson3Work1.dll
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.pdb
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\PractiseLesson3Work1.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Lesson4\PractiseLesson3Work1\obj\Debug\net6.0\ref\PractiseLesson3Work1.dll
